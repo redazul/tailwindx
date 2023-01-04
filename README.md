@@ -1,2 +1,4 @@
 # tailwindx
-Expanding the Tailwind Component Library
+Expanding the default Tailwind Component Library
+
+https://tailwindui.com/components
